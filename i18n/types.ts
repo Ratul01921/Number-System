@@ -1,0 +1,20 @@
+export type TranslationKeys =
+  | 'app_title'
+  | 'from_base'
+  | 'to_base'
+  | 'input_placeholder'
+  | 'convert_btn'
+  | 'step_identity'
+  | 'step_division'
+  | 'step_multiplication'
+  | 'step_positional'
+  | 'step_grouping'
+  | 'step_ungrouping'
+  | 'step_two_stage'
+  | 'step_any_to_any'
+  | 'step_by_step_solution'
+  | 'copy'
+  | 'copied'
+  | 'swap'
+  // more to be added later
+  ;
